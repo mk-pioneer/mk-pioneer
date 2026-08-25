@@ -89,7 +89,7 @@
   You can add as many as you like — 4-6 looks best on a profile.
 -->
 <p align="center">
-  <a href="https://github.com/mk-pioneer/REPO_NAME_1">
+  <a href="https://github.com/mk-pioneer/NexusCore-AI.git">
     <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=mk-pioneer&repo=REPO_NAME_1&theme=tokyonight" />
   </a>
   <a href="https://github.com/mk-pioneer/REPO_NAME_2">
